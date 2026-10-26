@@ -1,0 +1,1 @@
+<Solution><Folder Name="/src/"><Project Path="src/Respiro.Core/Respiro.Core.csproj" /><Project Path="src/Respiro.App/Respiro.App.csproj" /></Folder><Folder Name="/tests/"><Project Path="tests/Respiro.OperationalHost/Respiro.OperationalHost.csproj" /><Project Path="tests/Respiro.Tests/Respiro.Tests.csproj" /></Folder></Solution>
